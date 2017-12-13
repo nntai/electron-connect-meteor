@@ -1,6 +1,6 @@
 {
   "name": "electron-connect-meteor",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "Modify from react-native-meteor. Tks inProgress-Team.",
   "main": "dist/src/Meteor.js",
   "scripts": {
